@@ -1,0 +1,7 @@
+E:\sucessor\sucessor\bin\Debug\sucessor.exe.config
+E:\sucessor\sucessor\bin\Debug\sucessor.exe
+E:\sucessor\sucessor\bin\Debug\sucessor.pdb
+E:\sucessor\sucessor\obj\Debug\sucessor.csprojAssemblyReference.cache
+E:\sucessor\sucessor\obj\Debug\sucessor.csproj.CoreCompileInputs.cache
+E:\sucessor\sucessor\obj\Debug\sucessor.exe
+E:\sucessor\sucessor\obj\Debug\sucessor.pdb
